@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Priva Bungalow",
+    "price": "85 Lks",
+    "detail": "Rajmahal Flyover, Ashok Nagar, Bbsr, Odisha",
+    "image": "./a15.jpg"
+  },
+  {
+    "name": "Amaravati Colonial",
+    "price": "68.9 Lks",
+    "detail": "Near Green chillyz resaurant, Master Canteen Chowk, Bbsr, Odisha",
+    "image": "./a16.jpg"
+  },
+  {
+    "name": "Ramadevi Mahal",
+    "price": "2.3 Cr",
+    "detail": "Omm Applo Hospital Road, Civil Township, Rkl",
+    "image": "./a17.jpg"
+  },
+  {
+    "name": "Singdeo's Kutir",
+    "price": "76.1 Lks",
+    "detail": "Near new Bustand, Tamrit Colony, Angul",
+    "image": "./a19.jpg"
+  },
+  {
+    "name": "Mishra and Sons",
+    "price": "75 Lks",
+    "detail": "Dakhinakali Road, Gudianali, Dkl",
+    "image": "./a20.jpg"
+  },
+  {
+    "name": "The Queens Chamber",
+    "price": "4.5 Cr",
+    "detail": "Railway Station Road, Bbsr",
+    "image": "./a21.jpg"
+  }
+]
